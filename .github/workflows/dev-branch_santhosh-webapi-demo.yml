@@ -52,4 +52,4 @@ jobs:
           app-name: 'santhosh-webapi-demo'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_496E6FDC53924F5C8642748D40302A42 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_64E2EE3AE5D84A7491CA1EAE253FB6C8 }}
